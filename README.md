@@ -24,7 +24,7 @@
 > + 초기화 및 초기 세팅하기
 > ```
 > # git init
-> # git config --global user.name "Forenser0" 
+> # git config --global user.name "CheShireCat0430" 
 > # git config --global user.email vickey043011@gmail.com
 > ```
 
