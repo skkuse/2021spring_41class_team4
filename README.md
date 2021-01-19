@@ -39,3 +39,29 @@
 > ```
 > # git pull
 > ```
+
+## 에러 상황
+> 1. add 에러
+> ```
+> $ git add .
+> error: '~' does not have a commit checked out
+> fatal: adding files failed
+> ```
+> 작업 폴더 내부에 깃 레포명과 같은 이름의 파일이 생기고 그 안에 .git 파일이 존재해서 생긴 에러
+> .git 파일을 삭제하거나 상위 폴더에서 git clone을 사용한다.
+> 
+> 2. commit 에러
+> ```
+> $ git commit -m "~"
+> warning: adding embedded git repository: ~
+> ```
+> 바뀐 정보가 없어서 커밋할 수 없다.
+> 
+> 3. push 에러
+> ```
+> $ git add .
+> $ git commit -m "~"
+> $ git push
+> fatal: No configured push destination
+> ```
+> 연결 오류인듯... 삭제하고 다시 git clone ㄱㄱ
