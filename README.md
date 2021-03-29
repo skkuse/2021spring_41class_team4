@@ -17,7 +17,6 @@
 > + Test specification (5/30)
 
 ## Structure
-    .
     2021spring_41class_team4
     ├ docs
     │ ├ Presentation_TEAM1.pdf
