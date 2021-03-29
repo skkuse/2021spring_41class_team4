@@ -17,11 +17,11 @@
 > + Test specification (5/30)
 
 ## Structure
-  2021spring_41class_team4
-  ├ docs
-  │ ├ Presentation_TEAM1.pdf
-  │ ├ Proposal_TEAM1.pdf
-  │ ├ SDD_TEAM1.docx, pdf
-  │ └ SRS_TEAM1.docs, pdf
-  └ README.md
+   2021spring_41class_team4
+   ├ docs
+   │ ├ Presentation_TEAM1.pdf
+   │ ├ Proposal_TEAM1.pdf
+   │ ├ SDD_TEAM1.docx, pdf
+   │ └ SRS_TEAM1.docs, pdf
+   └ README.md
 
