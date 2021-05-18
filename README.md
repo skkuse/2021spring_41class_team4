@@ -19,6 +19,14 @@
 ## Structure
     2021spring_41class_team4
     ├ docs
-    │ └ Proposal_Team4.pdf
+    │ ├ Proposal_Team4.pdf
+    │ ├ Proposal_Team4.pptx
+    │ ├ SDD_TEAM4.docx
+    │ ├ SDD_TEAM4.pdf
+    │ ├ SRS_Team4_최종.docx
+    │ └ SRS_Team4_최종.pdf
+    ├ proposal_data
+    ├ SDD_data
+    ├ SRS_data
     └ README.md
 
